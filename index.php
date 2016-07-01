@@ -198,97 +198,75 @@
         <!-- Solar Lighting-->
 
         <?php
-        // image change using php-p group ELECTRICAL FENCE
+        // image change using php-p group Solar Lighting
 
-        $sl_p1 = 'images/portfolio/modals/p/ef_p1.jpg';
-        $sl_p2 = 'images/portfolio/modals/p/ef_p2.jpg';
-        $sl_p3 = 'images/portfolio/modals/p/ef_p3.jpg';
-        $sl_p4 = 'images/portfolio/modals/p/ef_p4.jpg';
-        $sl_p5 = 'images/portfolio/modals/p/ef_p5.jpg';
-        $sl_p6 = 'images/portfolio/modals/p/ef_p6.jpg';
-        $sl_p7 = 'images/portfolio/modals/p/ef_p7.jpg';
-        $sl_p8 = 'images/portfolio/modals/p/ef_p8.jpg';
-        $sl_p9 = 'images/portfolio/modals/p/ef_p9.jpg';
-        $sl_p10 = 'images/portfolio/modals/p/ef_p10.jpg';
-        $sl_p11 = 'images/portfolio/modals/p/ef_p11.jpg';
-        $sl_p12 = 'images/portfolio/modals/p/ef_p12.jpg';
-        $sl_p13 = 'images/portfolio/modals/p/ef_p13.jpg';
+        $sl_p1 = 'images/portfolio/Lightining/sl_p1.jpg';
+        $sl_p2 = 'images/portfolio/Lightining/sl_p2.jpg';
+        $sl_p3 = 'images/portfolio/Lightining/sl_p3.jpg';
+        $sl_p4 = 'images/portfolio/Lightining/sl_p4.jpg';
+        $sl_p5 = 'images/portfolio/Lightining/sl_p5.jpg';
+        $sl_p6 = 'images/portfolio/Lightining/sl_p6.jpg';
+        $sl_p7 = 'images/portfolio/Lightining/sl_p7.jpg';
+        $sl_p8 = 'images/portfolio/Lightining/sl_p8.jpg';
         ?>
 
         <?php
-        // image change using php-n group ELECTRICAL FENCE
+        // image change using php-n group Solar Lighting
 
-        $sl_n1 = 'images/portfolio/modals/n/s_p1.jpg';
-        $sl_n2 = 'images/portfolio/modals/n/s_p2.jpg';
-        $sl_n3 = 'images/portfolio/modals/n/s_p3.jpg';
-        $sl_n4 = 'images/portfolio/modals/n/s_p4.jpg';
-        $sl_n5 = 'images/portfolio/modals/n/s_p5.jpg';
-        $sl_n6 = 'images/portfolio/modals/n/s_p6.jpg';
-        $sl_n7 = 'images/portfolio/modals/n/s_p7.jpg';
-        $sl_n8 = 'images/portfolio/modals/n/s_p8.jpg';
-        $sl_n9 = 'images/portfolio/modals/n/s_p9.jpg';
-        $sl_n10 = 'images/portfolio/modals/n/s_p10.jpg';
-        $sl_n11 = 'images/portfolio/modals/n/s_p1.jpg';
-        $sl_n12 = 'images/portfolio/modals/n/s_p2.jpg';
-        $sl_n13 = 'images/portfolio/modals/n/s_p3.jpg';
-        $sl_n14 = 'images/portfolio/modals/n/s_p4.jpg';
-        $sl_n15 = 'images/portfolio/modals/n/s_p5.jpg';
-        $sl_n16 = 'images/portfolio/modals/n/s_p6.jpg';
-        $sl_n17 = 'images/portfolio/modals/n/s_p7.jpg';
-        $sl_n18 = 'images/portfolio/modals/n/s_p8.jpg';
-        $sl_n19 = 'images/portfolio/modals/n/s_p9.jpg';
-        $sl_n20 = 'images/portfolio/modals/n/s_p10.jpg';
+        $sl_p1 = 'images/portfolio/Lightining/sl_p1.jpg';
+        $sl_p2 = 'images/portfolio/Lightining/sl_p2.jpg';
+        $sl_p3 = 'images/portfolio/Lightining/sl_p3.jpg';
+        $sl_p4 = 'images/portfolio/Lightining/sl_p4.jpg';
+        $sl_p5 = 'images/portfolio/Lightining/sl_p5.jpg';
+        $sl_p6 = 'images/portfolio/Lightining/sl_p6.jpg';
+        $sl_p7 = 'images/portfolio/Lightining/sl_p7.jpg';
+        $sl_p8 = 'images/portfolio/Lightining/sl_p8.jpg';
         ?>
 
         <!-- Fire Alarm-->
 
         <?php
-// image change using php-p group ELECTRICAL FENCE
+// image change using php-p group FIAR ALARM
 
-        $fa_p1 = 'images/portfolio/modals/p/s_p1.jpg';
-        $fa_p2 = 'images/portfolio/modals/p/s_p2.jpg';
-        $fa_p3 = 'images/portfolio/modals/p/s_p3.jpg';
-        $fa_p4 = 'images/portfolio/modals/p/s_p4.jpg';
-        $fa_p5 = 'images/portfolio/modals/p/s_p5.jpg';
-        $fa_p6 = 'images/portfolio/modals/p/s_p6.jpg';
-        $fa_p7 = 'images/portfolio/modals/p/s_p7.jpg';
-        $fa_p8 = 'images/portfolio/modals/p/s_p8.jpg';
-        $fa_p9 = 'images/portfolio/modals/p/s_p9.jpg';
-        $fa_p10 = 'images/portfolio/modals/p/s_p10.jpg';
-        $fa_p11 = 'images/portfolio/modals/p/s_p11.jpg';
-        $fa_p12 = 'images/portfolio/modals/p/s_p12.jpg';
-        $fa_p13 = 'images/portfolio/modals/p/s_p13.jpg';
-        $fa_p14 = 'images/portfolio/modals/p/s_p14.jpg';
-        $fa_p15 = 'images/portfolio/modals/p/s_p15.jpg';
-        $fa_p16 = 'images/portfolio/modals/p/s_p16.jpg';
-        $fa_p17 = 'images/portfolio/modals/p/s_p17.jpg';
-        $fa_p19 = 'images/portfolio/modals/p/s_p19.jpg';
-        $fa_p20 = 'images/portfolio/modals/p/s_p20.jpg';
+        $fa_p1 = 'images/portfolio/FierAlarm/fa_p1.jpg';
+        $fa_p2 = 'images/portfolio/FierAlarm/fa_p2.jpg';
+        $fa_p3 = 'images/portfolio/FierAlarm/fa_p3.jpg';
+        $fa_p4 = 'images/portfolio/FierAlarm/fa_p4.jpg';
+        $fa_p5 = 'images/portfolio/FierAlarm/fa_p5.jpg';
+        $fa_p6 = 'images/portfolio/FierAlarm/fa_p6.jpg';
+        $fa_p7 = 'images/portfolio/FierAlarm/fa_p7.jpg';
+        $fa_p8 = 'images/portfolio/FierAlarm/fa_p8.jpg';
+        $fa_p9 = 'images/portfolio/FierAlarm/fa_p9.jpg';
+        $fa_p10 = 'images/portfolio/FierAlarm/fa_p10.jpg';
+        $fa_p11 = 'images/portfolio/FierAlarm/fa_p11.jpg';
+        $fa_p12 = 'images/portfolio/FireHydrant/fa_p12.jpg';
+        $fa_p13 = 'images/portfolio/FireHydrant/fa_p13.jpg';
+        $fa_p14 = 'images/portfolio/FireHydrant/fa_p14.jpg';
+        $fa_p15 = 'images/portfolio/FireHydrant/fa_p15.jpg';
+        $fa_p16 = 'images/portfolio/FireHydrant/fa_p16.jpg';
+        $fa_p17 = 'images/portfolio/FireHydrant/fa_p17.jpg';
         ?>
 
         <?php
-        // image change using php-n group ELECTRICAL FENCE
+        // image change using php-n group FIAR ELARM
 
-        $fa_n1 = 'images/portfolio/modals/n/s_p1.jpg';
-        $fa_n2 = 'images/portfolio/modals/n/s_p2.jpg';
-        $fa_n3 = 'images/portfolio/modals/n/s_p3.jpg';
-        $fa_n4 = 'images/portfolio/modals/n/s_p4.jpg';
-        $fa_n5 = 'images/portfolio/modals/n/s_p5.jpg';
-        $fa_n6 = 'images/portfolio/modals/n/s_p6.jpg';
-        $fa_n7 = 'images/portfolio/modals/n/s_p7.jpg';
-        $fa_n8 = 'images/portfolio/modals/n/s_p8.jpg';
-        $fa_n9 = 'images/portfolio/modals/n/s_p9.jpg';
-        $fa_n10 = 'images/portfolio/modals/n/s_p10.jpg';
-        $fa_n11 = 'images/portfolio/modals/n/s_p1.jpg';
-        $fa_n12 = 'images/portfolio/modals/n/s_p2.jpg';
-        $fa_n13 = 'images/portfolio/modals/n/s_p3.jpg';
-        $fa_n14 = 'images/portfolio/modals/n/s_p4.jpg';
-        $fa_n15 = 'images/portfolio/modals/n/s_p5.jpg';
-        $fa_n16 = 'images/portfolio/modals/n/s_p6.jpg';
-        $fa_n17 = 'images/portfolio/modals/n/s_p7.jpg';
-        $fa_n18 = 'images/portfolio/modals/n/s_p8.jpg';
-        $fa_n19 = 'images/portfolio/modals/n/s_p9.jpg';
-        $fa_n20 = 'images/portfolio/modals/n/s_p10.jpg';
+        $fa_n1 = 'images/portfolio/FierAlarm/fa_p1.jpg';
+        $fa_n2 = 'images/portfolio/FierAlarm/fa_p2.jpg';
+        $fa_n3 = 'images/portfolio/FierAlarm/fa_p3.jpg';
+        $fa_n4 = 'images/portfolio/FierAlarm/fa_p4.jpg';
+        $fa_n5 = 'images/portfolio/FierAlarm/fa_p5.jpg';
+        $fa_n6 = 'images/portfolio/FierAlarm/fa_p6.jpg';
+        $fa_n7 = 'images/portfolio/FierAlarm/fa_p7.jpg';
+        $fa_n8 = 'images/portfolio/FierAlarm/fa_p8.jpg';
+        $fa_n9 = 'images/portfolio/FierAlarm/fa_p9.jpg';
+        $fa_n10 = 'images/portfolio/FierAlarm/fa_p10.jpg';
+        $fa_n11 = 'images/portfolio/FierAlarm/fa_p11.jpg';
+        $fa_n12 = 'images/portfolio/FireHydrant/fa_p12.jpg';
+        $fa_n13 = 'images/portfolio/FireHydrant/fa_p13.jpg';
+        $fa_n14 = 'images/portfolio/FireHydrant/fa_p14.jpg';
+        $fa_n15 = 'images/portfolio/FireHydrant/fa_p15.jpg';
+        $fa_n16 = 'images/portfolio/FireHydrant/fa_p16.jpg';
+        $fa_n17 = 'images/portfolio/FireHydrant/fa_p17.jpg';
         ?>
 
 
@@ -561,10 +539,10 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-01">
-                                <img src="<?php echo $c_p1 ?>" alt="Cube Network Camera">
+                                <img src="<?php echo $c_p1 ?>" alt="AVM328">
                                 <div class="overlay"></div>                       
                                 <div class="portfolio-item-meta">
-                                    <h5>Cube Network Camera</h5>
+                                    <h5>AVM328</h5>
                                     <p>Details</p>
                                 </div> 
                                 <div class="link-icon"><i class="fa fa-plus">
@@ -580,10 +558,10 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-02">
-                                <img src="<?php echo $c_p2 ?>" alt="Pro Cube Network Camera">
+                                <img src="<?php echo $c_p2 ?>" alt="AVM583">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Pro Cube Network Camera</h5>
+                                        <h5>AVM583</h5>
                                         <p>Details</p>
                                     </div>
                                 </div>
@@ -597,10 +575,10 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-03">
-                                <img src="<?php echo $c_p3 ?>" alt="Turbo HD Internal PTZ">                        
+                                <img src="<?php echo $c_p3 ?>" alt="AVZ592">                        
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Turbo HD Internal PTZ</h5>
+                                        <h5>AVZ592</h5>
                                         <p>Details</p>
                                     </div>
                                 </div>
@@ -612,10 +590,10 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-04">
-                                <img src="<?php echo $c_p4 ?>" alt="4MP Mini Fisheye">
+                                <img src="<?php echo $c_p4 ?>" alt="700TVL">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>4MP Mini Fisheye</h5>
+                                        <h5>700TVL</h5>
                                         <p>Details</p>
                                     </div>
                                 </div>
@@ -627,11 +605,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-05">
-                                <img src="<?php echo $c_p5 ?>" alt="Light house">
+                                <img src="<?php echo $c_p5 ?>" alt="AVC432">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 05</h5>
-                                        <p>Slogan</p>
+                                        <h5>AVC432</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -642,11 +620,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-06">
-                                <img src="<?php echo $c_p6 ?>" alt="Girl Stuff">
+                                <img src="<?php echo $c_p6 ?>" alt="DG205A">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 06</h5>
-                                        <p>Slogan</p>
+                                        <h5>DG205A</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -657,11 +635,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-07">                        
-                                <img src="<?php echo $c_p7 ?>" alt="Coffee Cup">                       
+                                <img src="<?php echo $c_p7 ?>" alt="AVH0401 KIT">                       
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 07</h5>
-                                        <p>Slogan</p>
+                                        <h5>AVH0401 KIT</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -672,11 +650,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-08">
-                                <img src="<?php echo $c_p8 ?>" alt="Judah">
+                                <img src="<?php echo $c_p8 ?>" alt="AVP101">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 08</h5>
-                                        <p>Slogan</p>
+                                        <h5>AVP010</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -688,11 +666,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-09">
-                                <img src="<?php echo $c_p9 ?>" alt="Judah">
+                                <img src="<?php echo $c_p9 ?>" alt="AVT216">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 09</h5>
-                                        <p>Slogan</p>
+                                        <h5>AVT216</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -703,12 +681,12 @@
 
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
-                            <a href="#modal-010">
-                                <img src="<?php echo $c_p10 ?>" alt="Judah">
+                            <a href="#modal-10">
+                                <img src="<?php echo $c_p10 ?>" alt="DG1004">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 010</h5>
-                                        <p>Slogan</p>
+                                        <h5>DG1004</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -768,11 +746,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-001">
-                                <img src="<?php echo $s_p1 ?>" alt="Underwater">
+                                <img src="<?php echo $s_p1 ?>" alt="DS2076">
                                 <div class="overlay"></div>                       
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 01</h5>
-                                    <p>Slogan</p>
+                                    <h5>DS2076</h5>
+                                    <p>Details</p>
                                 </div> 
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
                             </a>
@@ -786,11 +764,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-002">
-                                <img src="<?php echo $s_p2 ?>" alt="Hotel Sign">
+                                <img src="<?php echo $s_p2 ?>" alt="IKUSI AMPLIFIER">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 02</h5>
-                                        <p>Slogan</p>
+                                        <h5>IKUSI AMPLIFIER</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -803,11 +781,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-003">
-                                <img src="<?php echo $s_p3 ?>" alt="Beetle">                        
+                                <img src="<?php echo $s_p3 ?>" alt="Kit Televes">                        
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 03</h5>
-                                        <p>Slogan</p>
+                                        <h5>Kit Televes</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -818,11 +796,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-004">
-                                <img src="<?php echo $s_p4 ?>" alt="Banjo Player">
+                                <img src="<?php echo $s_p4 ?>" alt="LNB SCR">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 04</h5>
-                                        <p>Slogan</p>
+                                        <h5>LNB SCR</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -833,11 +811,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-005">
-                                <img src="<?php echo $s_p5 ?>" alt="Lighthouse">
+                                <img src="<?php echo $s_p5 ?>" alt="Parabolica off-set 650 Televes">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 05</h5>
-                                        <p>Slogan</p>
+                                        <h5>Parabolica off-set 650 Televes</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -848,11 +826,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-006">
-                                <img src="<?php echo $s_p6 ?>" alt="Girl Stuff">
+                                <img src="<?php echo $s_p6 ?>" alt="Pau Ikushi">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 06</h5>
-                                        <p>Slogan dee</p>
+                                        <h5>Pau Ikushi</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -863,11 +841,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-007">                        
-                                <img src="<?php echo $s_p7 ?>" alt="Coffee Cup">                       
+                                <img src="<?php echo $s_p7 ?>" alt="Receiver HD">                       
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 07</h5>
-                                        <p>Slogan</p>
+                                        <h5>Receiver HD</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -878,11 +856,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-008">
-                                <img src="<?php echo $s_p8 ?>" alt="Judah">
+                                <img src="<?php echo $s_p8 ?>" alt="Repartidores Televes Connector F">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 08</h5>
-                                        <p>Slogan</p>
+                                        <h5>Repartidores Televes Connector F</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -894,11 +872,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-009">
-                                <img src="<?php echo $s_p9 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p9 ?>" alt="Satallite Dish Antena">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 09</h5>
-                                        <p>Slogan</p>
+                                        <h5>Satellite Dish Antenna</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -909,11 +887,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-010">
-                                <img src="<?php echo $s_p10 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p10 ?>" alt="Sky Dish">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 10</h5>
-                                        <p>Slogan</p>
+                                        <h5>Sky Dish</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -924,11 +902,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-011">
-                                <img src="<?php echo $s_p11 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p11 ?>" alt="TDT Premium QBO 7152">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 11</h5>
-                                        <p>Slogan</p>
+                                        <h5>TDT Premium QBO 7152</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -939,11 +917,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-012">
-                                <img src="<?php echo $s_p12 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p12 ?>" alt="TELVES 4530">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 12</h5>
-                                        <p>Slogan</p>
+                                        <h5>TELVES 4530</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -954,11 +932,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-013">
-                                <img src="<?php echo $s_p13 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p13 ?>" alt="TELEVES 5159">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 13</h5>
-                                        <p>Slogan</p>
+                                        <h5>TELEVES 5159</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -969,11 +947,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-014">
-                                <img src="<?php echo $s_p14 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p14 ?>" alt="TELEVES 5363">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 14</h5>
-                                        <p>Slogan</p>
+                                        <h5>TELEVES 5363</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -984,11 +962,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-015">
-                                <img src="<?php echo $s_p15 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p15 ?>" alt="TELEVES 514110">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 015</h5>
-                                        <p>Slogan</p>
+                                        <h5>TELEVES 514110</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -999,11 +977,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-016">
-                                <img src="<?php echo $s_p16 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p16 ?>" alt="TELEVES MULTISWITCH">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 16</h5>
-                                        <p>Slogan</p>
+                                        <h5>TELEVES MULTISWITCH</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1014,11 +992,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-017">
-                                <img src="<?php echo $s_p17 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p17 ?>" alt="Zg 401 Alcad">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 17</h5>
-                                        <p>Slogan</p>
+                                        <h5>Zg 401 Alcad</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1029,11 +1007,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-018">
-                                <img src="<?php echo $s_p18 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p18 ?>" alt="Antenas Ikusi">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 18</h5>
-                                        <p>Slogan</p>
+                                        <h5>Antenas Ikusi</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1044,11 +1022,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-019">
-                                <img src="<?php echo $s_p19 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p19 ?>" alt="Catv Headend Equipment">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 19</h5>
-                                        <p>Slogan</p>
+                                        <h5>Catv Headend Equipment</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1059,11 +1037,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-020">
-                                <img src="<?php echo $s_p20 ?>" alt="Deepal">
+                                <img src="<?php echo $s_p20 ?>" alt="Connector Tipo F">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 20</h5>
-                                        <p>Slogan</p>
+                                        <h5>Connector Tipo F</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1140,11 +1118,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0001">
-                                <img src="<?php echo $ef_p1 ?>" alt="Underwater">
+                                <img src="<?php echo $ef_p1 ?>" alt="Egg Electric Fencing Insulators">
                                 <div class="overlay"></div>                       
                                 <div class="portfolio-item-meta">
-                                    <h5>DS2076</h5>
-                                    <p>Slogan</p>
+                                    <h5>Egg Electric Fencing Insulators</h5>
+                                    <p>Details</p>
                                 </div> 
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
                             </a>
@@ -1158,11 +1136,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0002">
-                                <img src="<?php echo $ef_p2 ?>" alt="Hotel Sign">
+                                <img src="<?php echo $ef_p2 ?>" alt="Electirc Fence Lightning Diverts">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 02</h5>
-                                        <p>Slogan</p>
+                                        <h5>Electirc Fence Lightning Diverts</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1175,11 +1153,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0003">
-                                <img src="<?php echo $ef_p3 ?>" alt="Beetle">                        
+                                <img src="<?php echo $ef_p3 ?>" alt="Electric Fence Tester and Fault Finder">                        
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 03</h5>
-                                        <p>Slogan</p>
+                                        <h5>Electric Fence Tester and Fault Finder</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1192,11 +1170,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0004">
-                                <img src="<?php echo $ef_p4 ?>" alt="Banjo Player">
+                                <img src="<?php echo $ef_p4 ?>" alt="Fence Wire Tightener In-Line Strainer">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 04</h5>
-                                        <p>Slogan</p>
+                                        <h5>Fence Wire Tightener In-Line Strainer</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1209,11 +1187,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0005">
-                                <img src="<?php echo $ef_p5 ?>" alt="Lighthouse">
+                                <img src="<?php echo $ef_p5 ?>" alt="Galvanized Wire">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 05</h5>
-                                        <p>Slogan</p>
+                                        <h5>Galvanized Wire</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1226,11 +1204,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0006">
-                                <img src="<?php echo $ef_p6 ?>" alt="Girl Stuff">
+                                <img src="<?php echo $ef_p6 ?>" alt="Heavy Duty Extension Spring">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 06</h5>
-                                        <p>Slogan</p>
+                                        <h5>Heavy Duty Extension Spring</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1243,11 +1221,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0007">                        
-                                <img src="<?php echo $ef_p7 ?>" alt="Coffee Cup">                       
+                                <img src="<?php echo $ef_p7 ?>" alt="JVA RSG1">                       
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 07</h5>
-                                        <p>Slogan</p>
+                                        <h5>JVA RSG1</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1260,11 +1238,11 @@
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
                             <a href="#modal-0008">
-                                <img src="<?php echo $ef_p8 ?>" alt="Judah">
+                                <img src="<?php echo $ef_p8 ?>" alt="JVA SV2 Solar Energiser">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 08</h5>
-                                        <p>Slogan</p>
+                                        <h5>JVA SV2 Solar Energise</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1275,12 +1253,12 @@
                     <!-- End Item -->
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
-                            <a href="#modal-0008">
-                                <img src="<?php echo $ef_p9 ?>" alt="Judah">
+                            <a href="#modal-0009">
+                                <img src="<?php echo $ef_p9 ?>" alt="MB4.5 Mains/ Battery Energiser">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 08</h5>
-                                        <p>Slogan</p>
+                                        <h5>MB4.5 Mains/ Battery Energiser</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1291,12 +1269,12 @@
                     <!-- End Item -->
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
-                            <a href="#modal-0008">
-                                <img src="<?php echo $ef_p10 ?>" alt="Judah">
+                            <a href="#modal-0010">
+                                <img src="<?php echo $ef_p10 ?>" alt="Permanent Wire Tightner">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 08</h5>
-                                        <p>Slogan</p>
+                                        <h5>Permanent Wire Tightner</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1308,12 +1286,12 @@
 
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
-                            <a href="#modal-0008">
-                                <img src="<?php echo $ef_p11 ?>" alt="Judah">
+                            <a href="#modal-0011">
+                                <img src="<?php echo $ef_p11 ?>" alt="PET 100">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 11</h5>
-                                        <p>Slogan</p>
+                                        <h5>PET 100</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1324,12 +1302,12 @@
                     <!-- End Item -->
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
-                            <a href="#modal-0008">
-                                <img src="<?php echo $ef_p12 ?>" alt="Judah">
+                            <a href="#modal-0012">
+                                <img src="<?php echo $ef_p12 ?>" alt="Sell Insulator Ring">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 12</h5>
-                                        <p>Slogan</p>
+                                        <h5>Sell Insulator Ring</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1340,12 +1318,12 @@
                     <!-- End Item -->
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
-                            <a href="#modal-0008">
-                                <img src="<?php echo $ef_p13 ?>" alt="Judah">
+                            <a href="#modal-0013">
+                                <img src="<?php echo $ef_p13 ?>" alt="Spool Type Porcelain Insulator">
                                 <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                        <h5>Product 13</h5>
-                                        <p>Slogan</p>
+                                        <h5>Spool Type Porcelain Insulator</h5>
+                                        <p>Details</p>
                                     </div>
                                 </div>
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1418,11 +1396,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00001">
-                            <img src="<?php echo $sl_p1 ?>" alt="Underwater">
+                            <img src="<?php echo $sl_p1 ?>" alt="Cadweld Exothermic Weld Metal Case">
                             <div class="overlay"></div>                       
                             <div class="portfolio-item-meta">
-                                <h5>Product 01</h5>
-                                <p>Slogan</p>
+                                <h5>Cadweld Exothermic Weld Metal Case</h5>
+                                <p>Details</p>
                             </div> 
                             <div class="link-icon"><i class="fa fa-plus"></i></div>
                         </a>
@@ -1436,11 +1414,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00002">
-                            <img src="<?php echo $sl_p2 ?>" alt="Hotel Sign">
+                            <img src="<?php echo $sl_p2 ?>" alt="Copper Bonded Ground Rod">
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 02</h5>
-                                    <p>Slogan</p>
+                                    <h5>Copper Bonded Ground Rod</h5>
+                                    <p>Details</p>
                                 </div>
                             </div>
                             <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1453,11 +1431,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00003">
-                            <img src="<?php echo $sl_p3 ?>" alt="Beetle">                        
+                            <img src="<?php echo $sl_p3 ?>" alt="Copper Tape">                        
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 03</h5>
-                                    <p>Slogan</p>
+                                    <h5>Copper Tape</h5>
+                                    <p>Details</p>
                                 </div>
                             </div>
                             <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1470,11 +1448,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00004">
-                            <img src="<?php echo $sl_p4 ?>" alt="Banjo Player">
+                            <img src="<?php echo $sl_p4 ?>" alt="Danger High Voltage Warning Sign">
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 04</h5>
-                                    <p>Slogan</p>
+                                    <h5>Danger High Voltage Warning Sign</h5>
+                                    <p>Details</p>
                                 </div>
                             </div>
                             <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1487,11 +1465,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00005">
-                            <img src="<?php echo $sl_p5 ?>" alt="Lighthouse">
+                            <img src="<?php echo $sl_p5 ?>" alt="Lightning Arrestor Ese">
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 05</h5>
-                                    <p>Slogan</p>
+                                    <h5>Lightning Arrestor Ese</h5>
+                                    <p>Details</p>
                                 </div>
                             </div>
                             <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1504,11 +1482,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00006">
-                            <img src="<?php echo $sl_p6 ?>" alt="Girl Stuff">
+                            <img src="<?php echo $sl_p6 ?>" alt="Lightning Protection Air Terminal">
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 06</h5>
-                                    <p>Slogan</p>
+                                    <h5>Lightning Protection Air Terminal</h5>
+                                    <p>Details</p>
                                 </div>
                             </div>
                             <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1521,11 +1499,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00007">                        
-                            <img src="<?php echo $sl_p7 ?>" alt="Coffee Cup">                       
+                            <img src="<?php echo $sl_p7 ?>" alt="LPI RESLO-10">                       
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 07</h5>
-                                    <p>Slogan</p>
+                                    <h5>LPI RESLO-10</h5>
+                                    <p>Details</p>
                                 </div>
                             </div>
                             <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1538,11 +1516,11 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <a href="#modal-00008">
-                            <img src="<?php echo $sl_p8 ?>" alt="Judah">
+                            <img src="<?php echo $sl_p8 ?>" alt="Plastic Earth Pits">
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 08</h5>
-                                    <p>Slogan</p>
+                                    <h5>Plastic Earth Pits</h5>
+                                    <p>Details</p>
                                 </div>
                             </div>
                             <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1583,7 +1561,7 @@
                 <ul>
                     <br/>
                     <li class="li_f">Hose Reel Systems</li>
-
+                    
                     <li class="li_f">Fire Hydrant Systems</li>
 
 
@@ -1616,11 +1594,11 @@
             <div class="bgrid folio-item">
                 <div class="item-wrap">
                     <a href="#modal-000001">
-                        <img src="<?php echo $fa_p1 ?>" alt="Underwater">
+                        <img src="<?php echo $fa_p1 ?>" alt="C-Tec XFP501E">
                         <div class="overlay"></div>                       
                         <div class="portfolio-item-meta">
-                            <h5>Product 01</h5>
-                            <p>Slogan</p>
+                            <h5>C-Tec XFP501E</h5>
+                            <p>Details</p>
                         </div> 
                         <div class="link-icon"><i class="fa fa-plus"></i></div>
                     </a>
@@ -1634,11 +1612,11 @@
             <div class="bgrid folio-item">
                 <div class="item-wrap">
                     <a href="#modal-000002">
-                        <img src="<?php echo $fa_p2 ?>" alt="Hotel Sign">
+                        <img src="<?php echo $fa_p2 ?>" alt="Apollo BFS18 Remote Indicator">
                         <div class="overlay">
                             <div class="portfolio-item-meta">
-                                <h5>Product 02</h5>
-                                <p>Slogan</p>
+                                <h5>Apollo BFS18 Remote Indicator</h5>
+                                <p>Details</p>
                             </div>
                         </div>
                         <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1650,12 +1628,12 @@
 
             <div class="bgrid folio-item">
                 <div class="item-wrap">
-                    <a href="#modal-0003">
-                        <img src="<?php echo $fa_p3 ?>" alt="Beetle">                        
+                    <a href="#modal-000003">
+                        <img src="<?php echo $fa_p3 ?>" alt="Heat Detector">                        
                         <div class="overlay">
                             <div class="portfolio-item-meta">
-                                <h5>Product 03</h5>
-                                <p>Slogan</p>
+                                <h5>Heat Detector</h5>
+                                <p>Details</p>
                             </div>
                         </div>
                         <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1668,11 +1646,11 @@
             <div class="bgrid folio-item">
                 <div class="item-wrap">
                     <a href="#modal-000004">
-                        <img src="<?php echo $fa_p4 ?>" alt="Banjo Player">
+                        <img src="<?php echo $fa_p4 ?>" alt="Apollo Series 65">
                         <div class="overlay">
                             <div class="portfolio-item-meta">
-                                <h5>Product 04</h5>
-                                <p>Slogan</p>
+                                <h5>Apollo Series 65</h5>
+                                <p>Details</p>
                             </div>
                         </div>
                         <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1685,11 +1663,11 @@
             <div class="bgrid folio-item">
                 <div class="item-wrap">
                     <a href="#modal-000005">
-                        <img src="<?php echo $fa_p5 ?>" alt="Lighthouse">
+                        <img src="<?php echo $fa_p5 ?>" alt="DFS40C/CR/1">
                         <div class="overlay">
                             <div class="portfolio-item-meta">
-                                <h5>Product 05</h5>
-                                <p>Slogan</p>
+                                <h5>DFS40C/CR/1</h5>
+                                <p>Details</p>
                             </div>
                         </div>
                         <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1702,11 +1680,11 @@
             <div class="bgrid folio-item">
                 <div class="item-wrap">
                     <a href="#modal-000006">
-                        <img src="<?php echo $fa_p6 ?>" alt="Girl Stuff">
+                        <img src="<?php echo $fa_p6 ?>" alt="CLP004">
                         <div class="overlay">
                             <div class="portfolio-item-meta">
-                                <h5>Product 06</h5>
-                                <p>Slogan</p>
+                                <h5>CLP004</h5>
+                                <p>Details</p>
                             </div>
                         </div>
                         <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1719,11 +1697,11 @@
             <div class="bgrid folio-item">
                 <div class="item-wrap">
                     <a href="#modal-000007">                        
-                        <img src="<?php echo $fa_p7 ?>" alt="Coffee Cup">                       
+                        <img src="<?php echo $fa_p7 ?>" alt="C-Tec BFSSOCDR">                       
                         <div class="overlay">
                             <div class="portfolio-item-meta">
-                                <h5>Product 07</h5>
-                                <p>Slogan</p>
+                                <h5>C-Tec BFSSOCDR</h5>
+                                <p>Details</p>
                             </div>
                         </div>
                         <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1736,11 +1714,164 @@
             <div class="bgrid folio-item">
                 <div class="item-wrap">
                     <a href="#modal-000008">
-                        <img src="<?php echo $fa_p8 ?>" alt="Judah">
+                        <img src="<?php echo $fa_p8 ?>" alt="C-Tec CFP 702">
                         <div class="overlay">
                             <div class="portfolio-item-meta">
-                                <h5>Product 08</h5>
-                                <p>Slogan</p>
+                                <h5>C-Tec CFP 702</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000009">
+                        <img src="<?php echo $fa_p9 ?>" alt="C-Tec CFP">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>C-Tec CFP</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000010">
+                        <img src="<?php echo $fa_p10 ?>" alt="C-Tec Red 32 Tone Vantage Spartial Sounder (IP45) BFSSOCDR">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>C-Tec Red 32 Tone Vantage Spartial Sounder (IP45) BFSSOCDR</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000011">
+                        <img src="<?php echo $fa_p11 ?>" alt="C-Tec Sigtel Red Fire Telephone">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>C-Tec Sigtel Red Fire Telephone</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000012">
+                        <img src="<?php echo $fa_p12 ?>" alt="Door Mounted Fixed Type Cabinet">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>Door Mounted Fixed Type Cabinet</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000013">
+                        <img src="<?php echo $fa_p13 ?>" alt="Double Outlet Standpipe SP 804">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>Double Outlet Standpipe SP 804</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000014">
+                        <img src="<?php echo $fa_p14 ?>" alt="Dry Riser Gate Valve HV018 HV018F">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>Dry Riser Gate Valve HV018 HV018F</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000015">
+                        <img src="<?php echo $fa_p15 ?>" alt="A Fire Hose Reel Cabinet">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>A Fire Hose Reel Cabinet</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000016">
+                        <img src="<?php echo $fa_p16 ?>" alt="Hose Reel HR 508R">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>Hose Reel HR 508R</h5>
+                                <p>Details</p>
+                            </div>
+                        </div>
+                        <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                    </a>
+                </div>
+            </div>  
+
+            <!-- End Item -->
+            
+            <div class="bgrid folio-item">
+                <div class="item-wrap">
+                    <a href="#modal-000017">
+                        <img src="<?php echo $fa_p17 ?>" alt="Hose Reel Nozzle HR504">
+                        <div class="overlay">
+                            <div class="portfolio-item-meta">
+                                <h5>Hose Reel Nozzle HR504</h5>
+                                <p>Details</p>
                             </div>
                         </div>
                         <div class="link-icon"><i class="fa fa-plus"></i></div>                     
@@ -1767,45 +1898,20 @@
         <div id="modal-01" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n1 ?>" alt="Cube Network Camera" />
+                <img src="<?php echo $c_n1 ?>" alt="AVM328" />
             </div>
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>AVM328</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -1819,45 +1925,20 @@
         <div id="modal-02" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n2 ?>" alt="Pro Cube Network Camera" />
+                <img src="<?php echo $c_n2 ?>" alt="AVM583" />
             </div>
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>AVM583</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -1871,44 +1952,20 @@
         <div id="modal-03" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n3 ?>" alt="Turbo HD Internal PTZ" />
+                <img src="<?php echo $c_n3 ?>" alt="AVZ592" />
             </div>
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>AVZ592</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -1921,45 +1978,20 @@
         <div id="modal-04" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n4 ?>" alt="4MP Mini Fisheye" style="cursor:default"/>
+                <img src="<?php echo $c_n4 ?>" alt="700TVL" style="cursor:default"/>
             </div>
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>700TVL</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal">AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -1974,44 +2006,20 @@
         <div id="modal-05" class="popup-modal slider mfp-hide">	
 
             <div class="media">
-                <img src="<?php echo $c_n5 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $c_n5 ?>" alt="AVC432" style="cursor:default"/>
             </div>      	
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>AVC432</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal">AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -2026,45 +2034,20 @@
         <div id="modal-06" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n6 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $c_n6 ?>" alt="DG205A" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>DG205A</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal">AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -2078,45 +2061,20 @@
         <div id="modal-07" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n7 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $c_n7 ?>" alt="AVH0401 KIT" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>AVH0401 KIT</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal">AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -2131,45 +2089,20 @@
         <div id="modal-08" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n8 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $c_n8 ?>" alt="AVP010" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>AVP010</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal">AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -2184,44 +2117,20 @@
         <div id="modal-09" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n9 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $c_n9 ?>" alt="AVT216" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>AVT216</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal">AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -2233,47 +2142,23 @@
 
         <!-- Start Modal-010 -->
 
-        <div id="modal-010" class="popup-modal mfp-hide">
+        <div id="modal-10" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $c_n10 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $c_n10 ?>" alt="DG1004" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
-                <h4>Cube Network Camera</h4>
+                <h4>DG1004</h4>
 
                 <p style="cursor:default">
                 <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
+                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal">AVTECH</strong></li> 
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
                 </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                
             </div>
 
             <div class="link-box">
@@ -2293,45 +2178,8 @@
         <div id="modal-001" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $s_p1 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $s_p1 ?>" alt="DS2076" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -2347,43 +2195,6 @@
                 <img src="<?php echo $s_p2 ?>" alt="" style="cursor:default"/>
             </div>	
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
@@ -2398,43 +2209,6 @@
                 <img src="<?php echo $s_p3 ?>" alt="" />
             </div>
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
@@ -2446,43 +2220,6 @@
 
             <div class="media">
                 <img src="<?php echo $s_p4 ?>" alt="" style="cursor:default"/>
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
             </div>
 
             <div class="link-box">
@@ -2500,43 +2237,6 @@
                 <img src="<?php echo $s_p5 ?>" alt="" style="cursor:default"/>
             </div>      	
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>		      
@@ -2551,43 +2251,6 @@
                 <img src="<?php echo $s_p6 ?>" alt="" style="cursor:default"/>
             </div>	
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
@@ -2600,84 +2263,6 @@
             <div class="media">
                 <img src="<?php echo $s_p7 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -2694,43 +2279,6 @@
                 <img src="<?php echo $s_p8 ?>" alt="" style="cursor:default"/>
             </div>	
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
@@ -2739,48 +2287,11 @@
         <!-- End Modal-008 -->
 
         <!-- Start Model-009 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-009" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p9 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -2790,48 +2301,11 @@
         <!-- End Modal-009 -->
 
         <!-- Start Model-010 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-010" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p10 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -2841,48 +2315,11 @@
         <!-- End Modal-010 -->
 
         <!-- Start Model-011 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-011" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p11 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -2892,48 +2329,11 @@
         <!-- End Modal-011 -->
 
         <!-- Start Model-012 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-012" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p12 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -2943,48 +2343,11 @@
         <!-- End Modal-012 -->
 
         <!-- Start Model-013 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-013" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p13 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -2994,48 +2357,11 @@
         <!-- End Modal-013 -->
 
         <!-- Start Model-014 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-014" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p14 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-
-                </p>
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3045,48 +2371,11 @@
         <!-- End Modal-014 -->
 
         <!-- Start Model-015 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-015" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p15 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3096,48 +2385,11 @@
         <!-- End Modal-015 -->
 
         <!-- Start Model-016 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-016" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p16 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3147,48 +2399,11 @@
         <!-- End Modal-016 -->
 
         <!-- Start Model-0017 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-017" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p17 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3198,48 +2413,11 @@
         <!-- End Modal-017 -->
 
         <!-- Start Model-018 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-018" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p18 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3249,48 +2427,11 @@
         <!-- End Modal-018 -->
 
         <!-- Start Model-019 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-019" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p19 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3300,48 +2441,11 @@
         <!-- End Modal-019 -->
 
         <!-- Start Model-020 -->
-        <div id="modal-008" class="popup-modal mfp-hide">
+        <div id="modal-020" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $s_p20 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3363,43 +2467,6 @@
                 <img src="<?php echo $ef_p1 ?>" alt="" style="cursor:default"/>
             </div>	
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
@@ -3414,43 +2481,6 @@
                 <img src="<?php echo $ef_p2 ?>" alt="" style="cursor:default"/>
             </div>	
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
@@ -3463,43 +2493,6 @@
 
             <div class="media">
                 <img src="<?php echo $ef_p3 ?>" alt="" />
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
             </div>
 
             <div class="link-box">
@@ -3516,91 +2509,20 @@
                 <img src="<?php echo $ef_p4 ?>" alt="" style="cursor:default"/>
             </div>
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
-
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
 
-        </div><!-- modal-0004 end -->
-
+        </div>
+        <!-- End Modal-0004 -->
+        
+        <!-- Start Model-0005 -->
         <div id="modal-0005" class="popup-modal slider mfp-hide">	
 
             <div class="media">
                 <img src="<?php echo $ef_p5 ?>" alt="" style="cursor:default"/>
             </div>      	
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>		      
@@ -3608,48 +2530,12 @@
         </div>
         <!-- End Modal-0005 -->
 
+        <!-- Start Model-0006 -->
         <div id="modal-0006" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $ef_p6 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3658,48 +2544,12 @@
         </div>
         <!-- End Modal-0006 -->
 
+        <!-- Start Model-0007 -->
         <div id="modal-0007" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $ef_p7 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3708,48 +2558,12 @@
         </div>
         <!-- End Modal-0007 -->
 
+        <!-- Start Model-0008 -->
         <div id="modal-0008" class="popup-modal mfp-hide">
 
             <div class="media">
                 <img src="<?php echo $ef_p8 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -3757,6 +2571,77 @@
 
         </div>
         <!-- End Modal-08 -->
+        
+        <!-- Start Model-0009 -->
+        <div id="modal-0009" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $ef_p9 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-09 -->
+        
+        
+        <!-- Start Model-0010 -->
+        <div id="modal-0010" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $ef_p10 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-10 -->
+        
+        <!-- Start Model-0011 -->
+        <div id="modal-0011" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $ef_p11 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-11 -->
+        
+        <!-- Start Model-0012 -->
+        <div id="modal-0012" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $ef_p12 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-12 -->
+        
+        <!-- Start Model-0013 -->
+        <div id="modal-0013" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $ef_p13 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-13 -->
 
         <!-- ----------------------------------- Solar & Lightning Arresting Systems (Add POP-UP))------------------------------------------------------- -->
         <!-- Start Modal Pop-up 01-->
@@ -3765,44 +2650,7 @@
         <div id="modal-00001" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $ef_p9 ?>" alt="" />
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                <img src="<?php echo $sl_p1 ?>" alt="" />
             </div>
 
             <div class="link-box">
@@ -3816,44 +2664,7 @@
         <div id="modal-00002" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $ef_p10 ?>" alt="" />
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                <img src="<?php echo $sl_p2 ?>" alt="" />
             </div>
 
             <div class="link-box">
@@ -3867,45 +2678,9 @@
         <div id="modal-00003" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $ef_p11 ?>" alt="" />
+                <img src="<?php echo $sl_p3 ?>" alt="" />
             </div>
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
@@ -3916,44 +2691,7 @@
         <div id="modal-00004" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="<?php echo $ef_p12 ?>" alt="" style="cursor:default"/>
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                <img src="<?php echo $sl_p4 ?>" alt="" style="cursor:default"/>
             </div>
 
             <div class="link-box">
@@ -3965,45 +2703,8 @@
         <div id="modal-00005" class="popup-modal slider mfp-hide">	
 
             <div class="media">
-                <img src="<?php echo $ef_p13 ?>" alt="" style="cursor:default"/>
+                <img src="<?php echo $sl_p5 ?>" alt="" style="cursor:default"/>
             </div>      	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4015,45 +2716,8 @@
         <div id="modal-00006" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $sl_p6 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Camera Overview</strong>
-                    <li>1/2" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4065,45 +2729,8 @@
         <div id="modal-00007" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $sl_p7 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4115,45 +2742,8 @@
         <div id="modal-00008" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $sl_p8 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4169,44 +2759,7 @@
         <div id="modal-000001" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" />
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                <img src="<?php echo $fa_n1 ?>" alt="" />
             </div>
 
             <div class="link-box">
@@ -4220,44 +2773,7 @@
         <div id="modal-000002" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" />
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                <img src="<?php echo $fa_n2 ?>" alt="" />
             </div>
 
             <div class="link-box">
@@ -4271,44 +2787,9 @@
         <div id="modal-000003" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" />
+                <img src="<?php echo $fa_n3 ?>" alt="" />
             </div>
 
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4317,47 +2798,10 @@
         <!-- End Modal-03 -->
 
         <!-- Start Model-04 -->
-        <div id="modal-00004" class="popup-modal mfp-hide">
+        <div id="modal-000004" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
-            </div>
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
+                <img src="<?php echo $fa_n4 ?>" alt="" style="cursor:default"/>
             </div>
 
             <div class="link-box">
@@ -4369,45 +2813,8 @@
         <div id="modal-000005" class="popup-modal slider mfp-hide">	
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $fa_n5 ?>" alt="" style="cursor:default"/>
             </div>      	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4416,48 +2823,11 @@
         </div>
         <!-- End Modal-05 -->
 
-        <div id="modal-00006" class="popup-modal mfp-hide">
+        <div id="modal-000006" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $fa_n6 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4469,45 +2839,8 @@
         <div id="modal-000007" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $fa_n7 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4519,45 +2852,8 @@
         <div id="modal-000008" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $fa_n8 ?>" alt="" style="cursor:default"/>
             </div>	
-
-            <div class="description-box">
-                <h4>Cube Network Camera</h4>
-
-                <p style="cursor:default">
-                <ul>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Brand:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> HIKVISION</strong></li> 
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
-                    <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
-                </ul>
-                </p>
-
-                <span class="categories">Details</span>
-                <p  style="text-align: justify; font-family: Tahoma">
-
-                </p>
-                <style type="text/css"> 
-                    li{
-                        font-size: medium;
-                    }
-                    ul{
-                        font-family: Tahoma;
-
-                    }
-                </style>
-                <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
-                    <li>IR Range up to 10M</li>
-                    <li>Stylish, compact and light-weighted</li>
-                    <li>Smart recording to reduce hard disk storage</li>
-                    <li>3 Axis</li>
-
-
-
-                </ul>
-            </div>
 
             <div class="link-box">
                 <a href="#" class="popup-modal-dismiss">Close</a>
@@ -4565,6 +2861,123 @@
 
         </div>
         <!-- End Modal-08 -->
+        
+        <div id="modal-000009" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n9 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-09 -->
+        
+        <div id="modal-000010" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n10 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-10 -->
+        
+        <div id="modal-000011" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n11 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-11 -->
+        
+        <div id="modal-000012" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n12 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-12 -->
+        
+        <div id="modal-000013" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n13 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-13 -->
+        
+        <div id="modal-000014" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n14 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-14 -->
+        
+        <div id="modal-000015" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n15 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-15 -->
+        
+        <div id="modal-000016" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n16 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-16 -->
+        
+        <div id="modal-000017" class="popup-modal mfp-hide">
+
+            <div class="media">
+                <img src="<?php echo $fa_n17 ?>" alt="" style="cursor:default"/>
+            </div>	
+
+            <div class="link-box">
+                <a href="#" class="popup-modal-dismiss">Close</a>
+            </div>
+
+        </div>
+        <!-- End Modal-17 -->
     </div>  
     <!-- End Row -->
 </section> 
