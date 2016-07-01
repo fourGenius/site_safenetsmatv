@@ -3,7 +3,7 @@
 <html class="no-js" lang="en"> 
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="">  
+        <meta name="description" content="this is the most leading securty camera and smatv system company in the sri lanka.">  
         <meta name="author" content="Safenet smatv">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -80,6 +80,7 @@
         $c_p8 = 'images/portfolio/modals/p/c_p8.jpg';
         $c_p9 = 'images/portfolio/modals/p/c_p9.jpg';
         $c_p10 = 'images/portfolio/modals/p/c_p10.jpg';
+        //11done!
         ?>
 
         <?php
@@ -95,6 +96,7 @@
         $c_n8 = 'images/portfolio/modals/n/c_p8.jpg';
         $c_n9 = 'images/portfolio/modals/n/c_p9.jpg';
         $c_n10 = 'images/portfolio/modals/n/c_p10.jpg';
+        //12done!
         ?>
 
         <!-- SMATV-->
@@ -122,6 +124,7 @@
         $s_p18 = 'images/portfolio/modals/p/s_p18.jpg';
         $s_p19 = 'images/portfolio/modals/p/s_p19.jpg';
         $s_p20 = 'images/portfolio/modals/p/s_p20.jpg';
+        //21done!
         ?>
 
         <?php
@@ -147,6 +150,7 @@
         $s_n18 = 'images/portfolio/modals/n/s_p8.jpg';
         $s_n19 = 'images/portfolio/modals/n/s_p9.jpg';
         $s_n20 = 'images/portfolio/modals/n/s_p10.jpg';
+        //22done!
         ?>
 
         <!-- ELECTRICAL FENCE-->
@@ -154,50 +158,41 @@
         <?php
         // image change using php-p group ELECTRICAL FENCE
 
-        $ef_p1 = 'images/portfolio/modals/p/s_p1.jpg';
-        $ef_p2 = 'images/portfolio/modals/p/s_p2.jpg';
-        $ef_p3 = 'images/portfolio/modals/p/s_p3.jpg';
-        $ef_p4 = 'images/portfolio/modals/p/s_p4.jpg';
-        $ef_p5 = 'images/portfolio/modals/p/s_p5.jpg';
-        $ef_p6 = 'images/portfolio/modals/p/s_p6.jpg';
-        $ef_p7 = 'images/portfolio/modals/p/s_p7.jpg';
-        $ef_p8 = 'images/portfolio/modals/p/s_p8.jpg';
-        $ef_p9 = 'images/portfolio/modals/p/s_p9.jpg';
-        $ef_p10 = 'images/portfolio/modals/p/s_p10.jpg';
-        $ef_p11 = 'images/portfolio/modals/p/s_p11.jpg';
-        $ef_p12 = 'images/portfolio/modals/p/s_p12.jpg';
-        $ef_p13 = 'images/portfolio/modals/p/s_p13.jpg';
-        $ef_p14 = 'images/portfolio/modals/p/s_p14.jpg';
-        $ef_p15 = 'images/portfolio/modals/p/s_p15.jpg';
-        $ef_p16 = 'images/portfolio/modals/p/s_p16.jpg';
-        $ef_p17 = 'images/portfolio/modals/p/s_p17.jpg';
-        $ef_p19 = 'images/portfolio/modals/p/s_p19.jpg';
-        $ef_p20 = 'images/portfolio/modals/p/s_p20.jpg';
+        $ef_p1 = 'images/portfolio/modals/p/ef_p1.jpg';
+        $ef_p2 = 'images/portfolio/modals/p/ef_p2.jpg';
+        $ef_p3 = 'images/portfolio/modals/p/ef_p3.jpg';
+        $ef_p4 = 'images/portfolio/modals/p/ef_p4.jpg';
+        $ef_p5 = 'images/portfolio/modals/p/ef_p5.jpg';
+        $ef_p6 = 'images/portfolio/modals/p/ef_p6.jpg';
+        $ef_p7 = 'images/portfolio/modals/p/ef_p7.jpg';
+        $ef_p8 = 'images/portfolio/modals/p/ef_p8.jpg';
+        $ef_p9 = 'images/portfolio/modals/p/ef_p9.jpg';
+        $ef_p10 = 'images/portfolio/modals/p/ef_p10.jpg';
+        $ef_p11 = 'images/portfolio/modals/p/ef_p11.jpg';
+        $ef_p12 = 'images/portfolio/modals/p/ef_p12.jpg';
+        $ef_p13 = 'images/portfolio/modals/p/ef_p13.jpg';
+        $ef_p14 = 'images/portfolio/modals/p/ef_p14.jpg';
+        //31done!
         ?>
 
         <?php
-        // image change using php-n group ELECTRICAL FENCE
+        // image  php-n group ELECTRICAL FENCE
 
-        $ef_n1 = 'images/portfolio/modals/n/s_p1.jpg';
-        $ef_n2 = 'images/portfolio/modals/n/s_p2.jpg';
-        $ef_n3 = 'images/portfolio/modals/n/s_p3.jpg';
-        $ef_n4 = 'images/portfolio/modals/n/s_p4.jpg';
-        $ef_n5 = 'images/portfolio/modals/n/s_p5.jpg';
-        $ef_n6 = 'images/portfolio/modals/n/s_p6.jpg';
-        $ef_n7 = 'images/portfolio/modals/n/s_p7.jpg';
-        $ef_n8 = 'images/portfolio/modals/n/s_p8.jpg';
-        $ef_n9 = 'images/portfolio/modals/n/s_p9.jpg';
-        $ef_n10 = 'images/portfolio/modals/n/s_p10.jpg';
-        $ef_n11 = 'images/portfolio/modals/n/s_p1.jpg';
-        $ef_n12 = 'images/portfolio/modals/n/s_p2.jpg';
-        $ef_n13 = 'images/portfolio/modals/n/s_p3.jpg';
-        $ef_n14 = 'images/portfolio/modals/n/s_p4.jpg';
-        $ef_n15 = 'images/portfolio/modals/n/s_p5.jpg';
-        $ef_n16 = 'images/portfolio/modals/n/s_p6.jpg';
-        $ef_n17 = 'images/portfolio/modals/n/s_p7.jpg';
-        $ef_n18 = 'images/portfolio/modals/n/s_p8.jpg';
-        $ef_n19 = 'images/portfolio/modals/n/s_p9.jpg';
-        $ef_n20 = 'images/portfolio/modals/n/s_p10.jpg';
+        $ef_n1 = 'images/portfolio/modals/n/ef_p1.jpg';
+        $ef_n2 = 'images/portfolio/modals/n/ef_p2.jpg';
+        $ef_n3 = 'images/portfolio/modals/n/ef_p3.jpg';
+        $ef_n4 = 'images/portfolio/modals/n/ef_p4.jpg';
+        $ef_n5 = 'images/portfolio/modals/n/ef_p5.jpg';
+        $ef_n6 = 'images/portfolio/modals/n/ef_p6.jpg';
+        $ef_n7 = 'images/portfolio/modals/n/ef_p7.jpg';
+        $ef_n8 = 'images/portfolio/modals/n/ef_p8.jpg';
+        $ef_n9 = 'images/portfolio/modals/n/ef_p9.jpg';
+        $ef_n10 = 'images/portfolio/modals/n/ef_p10.jpg';
+        $ef_n11 = 'images/portfolio/modals/n/ef_p11.jpg';
+        $ef_n12 = 'images/portfolio/modals/n/ef_p12.jpg';
+        $ef_n13 = 'images/portfolio/modals/n/ef_p13.jpg';
+        $ef_n14 = 'images/portfolio/modals/n/ef_p14.jpg';
+        //32done!
         ?>
 
         <!-- Solar Lighting-->
@@ -205,25 +200,19 @@
         <?php
         // image change using php-p group ELECTRICAL FENCE
 
-        $sl_p1 = 'images/portfolio/modals/p/s_p1.jpg';
-        $sl_p2 = 'images/portfolio/modals/p/s_p2.jpg';
-        $sl_p3 = 'images/portfolio/modals/p/s_p3.jpg';
-        $sl_p4 = 'images/portfolio/modals/p/s_p4.jpg';
-        $sl_p5 = 'images/portfolio/modals/p/s_p5.jpg';
-        $sl_p6 = 'images/portfolio/modals/p/s_p6.jpg';
-        $sl_p7 = 'images/portfolio/modals/p/s_p7.jpg';
-        $sl_p8 = 'images/portfolio/modals/p/s_p8.jpg';
-        $sl_p9 = 'images/portfolio/modals/p/s_p9.jpg';
-        $sl_p10 = 'images/portfolio/modals/p/s_p10.jpg';
-        $sl_p11 = 'images/portfolio/modals/p/s_p11.jpg';
-        $sl_p12 = 'images/portfolio/modals/p/s_p12.jpg';
-        $sl_p13 = 'images/portfolio/modals/p/s_p13.jpg';
-        $sl_p14 = 'images/portfolio/modals/p/s_p14.jpg';
-        $sl_p15 = 'images/portfolio/modals/p/s_p15.jpg';
-        $sl_p16 = 'images/portfolio/modals/p/s_p16.jpg';
-        $sl_p17 = 'images/portfolio/modals/p/s_p17.jpg';
-        $sl_p19 = 'images/portfolio/modals/p/s_p19.jpg';
-        $sl_p20 = 'images/portfolio/modals/p/s_p20.jpg';
+        $sl_p1 = 'images/portfolio/modals/p/ef_p1.jpg';
+        $sl_p2 = 'images/portfolio/modals/p/ef_p2.jpg';
+        $sl_p3 = 'images/portfolio/modals/p/ef_p3.jpg';
+        $sl_p4 = 'images/portfolio/modals/p/ef_p4.jpg';
+        $sl_p5 = 'images/portfolio/modals/p/ef_p5.jpg';
+        $sl_p6 = 'images/portfolio/modals/p/ef_p6.jpg';
+        $sl_p7 = 'images/portfolio/modals/p/ef_p7.jpg';
+        $sl_p8 = 'images/portfolio/modals/p/ef_p8.jpg';
+        $sl_p9 = 'images/portfolio/modals/p/ef_p9.jpg';
+        $sl_p10 = 'images/portfolio/modals/p/ef_p10.jpg';
+        $sl_p11 = 'images/portfolio/modals/p/ef_p11.jpg';
+        $sl_p12 = 'images/portfolio/modals/p/ef_p12.jpg';
+        $sl_p13 = 'images/portfolio/modals/p/ef_p13.jpg';
         ?>
 
         <?php
@@ -254,7 +243,7 @@
         <!-- Fire Alarm-->
 
         <?php
-        // image change using php-p group ELECTRICAL FENCE
+// image change using php-p group ELECTRICAL FENCE
 
         $fa_p1 = 'images/portfolio/modals/p/s_p1.jpg';
         $fa_p2 = 'images/portfolio/modals/p/s_p2.jpg';
@@ -310,7 +299,7 @@
             <div class="row">
 
                 <div class="logo">
-                    <a href="index.php">Safe Net</a>
+                    <a class="smoothscroll" href="#h">Safe Net</a>
                 </div>
 
                 <!-- Start #Navigation Wrap -->
@@ -324,20 +313,19 @@
                     </a>            
 
                     <ul id="nav" class="nav">
-                        <li><a class="smoothscroll" href="#h">Home.</a></li>
-                        <li class="current"><a class="smoothscroll" href="#portfolio">Our Products.</a></li>
-                        <li><a class="smoothscroll" href="#services">Our Services.</a></li>
+
+                        <li class="current"><a class="smoothscroll" href="#mach01">CCTV System</a></li>
+                        <li class="current"><a class="smoothscroll" href="#mach02">SMATV System</a></li>
+                        <li class="current"><a class="smoothscroll" href="#mach03">Fence System</a></li>
+                        <li class="current"><a class="smoothscroll" href="#mach04">Solar System</a></li>
+                        <li class="current"><a class="smoothscroll" href="#mach05">Fire Alarm System</a></li>
+
                         <li><a class="smoothscroll" href="#contact">Contact Us.</a></li>
                     </ul> 
                 </nav> 
                 <!-- End #Navigation Wrap -->
 
-                <ul class="header-social">
-                    <li><a href="https://www.facebook.com/Safenetsmatv" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="https://twitter.com/safenetsmatv" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="https://plus.google.com/u/0/116678848465108089058" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="skype:facebook:safenetsmatv"><i class="fa fa-skype"></i></a></li>
-                </ul>      
+
 
             </div>
 
@@ -1155,7 +1143,7 @@
                                 <img src="<?php echo $ef_p1 ?>" alt="Underwater">
                                 <div class="overlay"></div>                       
                                 <div class="portfolio-item-meta">
-                                    <h5>Product 01</h5>
+                                    <h5>DS2076</h5>
                                     <p>Slogan</p>
                                 </div> 
                                 <div class="link-icon"><i class="fa fa-plus"></i></div>
@@ -1285,7 +1273,87 @@
                     </div>  
 
                     <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-0008">
+                                <img src="<?php echo $ef_p9 ?>" alt="Judah">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Product 08</h5>
+                                        <p>Slogan</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
 
+                    <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-0008">
+                                <img src="<?php echo $ef_p10 ?>" alt="Judah">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Product 08</h5>
+                                        <p>Slogan</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
+
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-0008">
+                                <img src="<?php echo $ef_p11 ?>" alt="Judah">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Product 11</h5>
+                                        <p>Slogan</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-0008">
+                                <img src="<?php echo $ef_p12 ?>" alt="Judah">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Product 12</h5>
+                                        <p>Slogan</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-0008">
+                                <img src="<?php echo $ef_p13 ?>" alt="Judah">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Product 13</h5>
+                                        <p>Slogan</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
                 </div> 
                 <!-- End portfolio Wrapper 03-->
             </div>
@@ -1735,47 +1803,7 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
 
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -1827,47 +1855,7 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
 
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -1919,47 +1907,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2010,47 +1957,7 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
 
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2103,47 +2010,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2196,47 +2062,7 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
 
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2288,47 +2114,7 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
 
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2381,47 +2167,7 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
 
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2474,47 +2220,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2567,47 +2272,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2665,47 +2329,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2757,47 +2380,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2849,47 +2431,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -2940,47 +2481,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3033,47 +2533,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3125,47 +2584,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3309,47 +2727,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3401,47 +2778,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3493,47 +2829,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3585,47 +2880,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3677,47 +2931,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3769,47 +2982,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3837,8 +3009,8 @@
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Product Code:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> ds-2cd2432f-iw</strong></li>
                     <li><strong style="font-family: sans-serif;font-size: small;color: skyblue; font-weight: bold">Availability:</strong><strong style="font-family: sans-serif;font-size: smaller;color: gray; font-weight: normal"> In Stock</strong></li> 
                 </ul>
-                </p>
 
+                </p>
                 <span class="categories">Details</span>
                 <p  style="text-align: justify; font-family: Tahoma">
 
@@ -3861,47 +3033,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -3953,47 +3084,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4045,47 +3135,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4137,47 +3186,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4229,47 +3237,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4321,47 +3288,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4413,47 +3339,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4475,7 +3360,7 @@
         <div id="modal-0001" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p1 ?>" alt="" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
@@ -4511,47 +3396,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4567,7 +3411,7 @@
         <div id="modal-0002" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p2 ?>" alt="" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
@@ -4603,47 +3447,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4659,7 +3462,7 @@
         <div id="modal-0003" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" />
+                <img src="<?php echo $ef_p3 ?>" alt="" />
             </div>
 
             <div class="description-box">
@@ -4695,47 +3498,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4751,7 +3513,7 @@
         <div id="modal-0004" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p4 ?>" alt="" style="cursor:default"/>
             </div>
 
             <div class="description-box">
@@ -4787,47 +3549,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4841,7 +3562,7 @@
         <div id="modal-0005" class="popup-modal slider mfp-hide">	
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p5 ?>" alt="" style="cursor:default"/>
             </div>      	
 
             <div class="description-box">
@@ -4877,47 +3598,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -4931,7 +3611,7 @@
         <div id="modal-0006" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p6 ?>" alt="" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
@@ -4967,47 +3647,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5022,7 +3661,7 @@
         <div id="modal-0007" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p7 ?>" alt="" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
@@ -5058,47 +3697,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5113,7 +3711,7 @@
         <div id="modal-0008" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p8 ?>" alt="" style="cursor:default"/>
             </div>	
 
             <div class="description-box">
@@ -5149,47 +3747,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5208,7 +3765,7 @@
         <div id="modal-00001" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" />
+                <img src="<?php echo $ef_p9 ?>" alt="" />
             </div>
 
             <div class="description-box">
@@ -5244,47 +3801,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5300,7 +3816,7 @@
         <div id="modal-00002" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" />
+                <img src="<?php echo $ef_p10 ?>" alt="" />
             </div>
 
             <div class="description-box">
@@ -5336,47 +3852,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5392,7 +3867,7 @@
         <div id="modal-00003" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" />
+                <img src="<?php echo $ef_p11 ?>" alt="" />
             </div>
 
             <div class="description-box">
@@ -5428,47 +3903,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5482,7 +3916,7 @@
         <div id="modal-00004" class="popup-modal mfp-hide">
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p12 ?>" alt="" style="cursor:default"/>
             </div>
 
             <div class="description-box">
@@ -5518,47 +3952,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5572,7 +3965,7 @@
         <div id="modal-00005" class="popup-modal slider mfp-hide">	
 
             <div class="media">
-                <img src="images/portfolio/modals/preview.jpg" alt="" style="cursor:default"/>
+                <img src="<?php echo $ef_p13 ?>" alt="" style="cursor:default"/>
             </div>      	
 
             <div class="description-box">
@@ -5608,47 +4001,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5691,55 +4043,14 @@
                     }
                 </style>
                 <ul>
-                    <strong>Quick Overview</strong>
-                    <li>1/4" SONY CMOS image sensor</li>
+                    <strong>Camera Overview</strong>
+                    <li>1/2" SONY CMOS image sensor</li>
                     <li>IR Range up to 10M</li>
                     <li>Stylish, compact and light-weighted</li>
                     <li>Smart recording to reduce hard disk storage</li>
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5790,47 +4101,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5881,47 +4151,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -5976,47 +4205,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -6068,47 +4256,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -6160,48 +4307,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
-
                 </ul>
             </div>
 
@@ -6251,47 +4356,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -6341,47 +4405,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -6432,47 +4455,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -6523,47 +4505,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -6614,47 +4555,6 @@
                     <li>3 Axis</li>
 
 
-                    <strong>Camera</strong>
-
-                    <li>Image Sensor:               1/4" SONY CMOS image sensor</li>
-                    <li>Min. illumination:          0.1 Lux / F1.5</li>
-                    <li>Electronic Shutter Speed:   1/2 to 1/10,000 sec</li>
-                    <li>Lens:                       f3.8mm / F1.5</li>
-                    <li>White Balance:              ATW</li>
-                    <li>IR Effective Range:         Up to 10 meters</li>
-                    <li>IR LED:                     12 units</li>
-
-                    <strong>Compression Standard</strong>
-
-                    <li>Video Compression:          H.264/M-JPEG</li>
-                    <li>Frame Rate:                 NTSC:30, PAL:25</li>
-                    <strong>Image</strong>
-                    <li>Resolution:                 SXGA, 720P, VGA, QVGA</li>
-
-                    <strong>Functions</strong>
-
-                    <li>Motion Detection:           YES</li>
-                    <li>Digital Pan / Tilt / Zoom:  YES</li>
-                    <li>Protocols:                  DDNS, PPPoE, DHCP, NTP, SNTP, TCP/IP, ICMP, SMTP, FTP, HTTP, RTP, RTSP, RTCP,
-                        IPv4, Bonjour, UPnP, DNS,UDP,IGMP, QoS</li>
-
-                    <strong>Security </strong>
-
-                    <li>Multiple user access levels with password</li>
-                    <li>IP address filtering</li>                            
-                    <li>Digest authentication</li>                            
-                    <li>System Compatibility:       ONVIF</li>
-
-                    <strong>Interface</strong>
-
-                    <li>Communication:              1 RJ45 10M/100M Ethernet port, 1 RS-485 interface</li>
-                    <li>SD Card Local Recording:    Built-in Micro SD slot</li>
-                    <li>External Alarm I/O:         YES</li>
-                    <li>External Audio In / Out:    YES</li>
-
-                    <strong>General</strong>
-                    <li>Power Supply:               DC 12V/1A± 10%, PoE</li>
-                    <li>Working Temperature:        0 °C ~ 40 °C</li>
 
                 </ul>
             </div>
@@ -6670,112 +4570,6 @@
 </section> 
 <!-- end portfolio -->
 
-<!-- Start Services Section -->
-<section id="services">
-
-    <!-- Start Section Head -->
-    <div class="row section-head">
-
-        <div class="twelve columns">
-
-            <h1 style="cursor:default">Our Awesome Services<span>.</span></h1>
-
-            <hr />      	         
-
-            <p style="cursor:default">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p>
-
-        </div>
-
-    </div> 
-    <!-- End Section Head -->
-
-    <!-- Start Section Head -->
-    <div class="row mobile-no-padding">      	
-
-        <div class="service-list bgrid-third s-bgrid-half tab-bgrid-whole group">
-
-            <!-- Start B-grid -->
-            <div class="bgrid">	               
-
-                <h3 style="cursor:default">Marketing.</h3>
-
-                <div class="service-content">	                  
-                    <p style="cursor:default">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p> 
-                </div>  
-
-            </div> 
-            <!-- End B-grid -->
-
-            <!-- Start B-grid -->
-            <div class="bgrid">	              
-
-                <h3 style="cursor:default">Video.</h3>                  
-
-                <div class="service-content">	                  
-                    <p style="cursor:default">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p> 
-                </div>	              
-
-            </div> 
-            <!-- End B-grid -->
-
-            <!-- Start Section Head -->
-            <div class="bgrid">	              
-
-                <h3 style="cursor:default">Photography.</h3>
-
-                <div class="service-content">		                  
-                    <p style="cursor:default">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p> 
-                </div> 	               
-
-            </div> 
-            <!-- End B-grid -->
-
-            <!-- Start B-grid -->
-            <div class="bgrid">	              
-
-                <h3 style="cursor:default">Branding.</h3> 
-
-                <div class="service-content">	                  
-                    <p style="cursor:default">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p> 
-                </div>                
-
-            </div> 
-            <!-- End B-grid -->
-
-            <!-- Start B-grid -->
-            <div class="bgrid">
-
-                <h3 style="cursor:default">Fiber & CAT Networking Solutions.</h3>
-
-                <div class="service-content">	                  
-                    <p style="cursor:default">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p> 
-                </div>	               
-
-            </div> 
-            <!-- End B-grid -->
-
-            <!-- Start B-grid -->
-            <div class="bgrid">	               
-
-                <h3 style="cursor:default">Security Solutions.</h3>
-
-                <div class="service-content">
-
-                    <p style="cursor:default">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p> 
-
-                </div>	               
-
-            </div> 
-            <!-- End B-grid -->
-
-        </div> 
-        <!-- End Service List -->	      
-
-    </div> 
-    <!-- End Row -->      
-
-</section> 
-<!-- End Services -->
 
 <!-- contact
 ================================================== -->
@@ -6863,7 +4657,7 @@
         <div class="twelve columns content group">
 
             <ul class="social-links">
-                <li><a href="https://www.facebook.com/Safenetsmatv" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="https://www.facebook.com/Safenetsmatv" target="_blank" ><i class="fa fa-facebook-square"></i></a></li>
                 <li><a href="https://twitter.com/safenetsmatv" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
                 <li><a href="https://plus.google.com/u/0/116678848465108089058" target="_blank"><i class="fa fa-google-plus-square"></i></a></li>    
                 <li><a href="skype:facebook:safenetsmatv"><i class="fa fa-skype"></i></a></li>
