@@ -319,17 +319,17 @@
         <br/>
         <div class="nav">
             <div class="nav" style=" padding-top: 15px; padding-left: 25px;">    
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/HV_brand.png" width="100" height="29"></a></div>
+                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/ctech_brand.png" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/avtech.jpg" width="100" height="29"></a></div>
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/sony_brand.png" width="100" height="29"></a></div>
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/vivo_brand.png" width="100" height="29"></a></div>            
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/ca_traffic_brand.png" width="100" height="29"></a></div>
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/zkt_brand.png" width="100" height="29"></a></div>
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/aciz_brand.png" width="100" height="29"></a></div>  
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/adhua_brand.png" width="100" height="29"></a></div>
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/cooper_brand.png" width="100" height="29"></a></div>
+                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/dialogtv_brand.png" width="100" height="29"></a></div>
+                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/dishtv_brand.png" width="100" height="29"></a></div>            
+                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/ikusi_brand.png" width="100" height="29"></a></div>
+                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/televes_brand.png" width="100" height="29"></a></div>
+                <!--<div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/aciz_brand.png" width="100" height="29"></a></div>-->  
+                <!--<div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/adhua_brand.png" width="100" height="29"></a></div>-->
+                <!--<div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/cooper_brand.png" width="100" height="29"></a></div>-->
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/pelco_brand.png" width="100" height="29"></a></div> 
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/qihan_brand.png" width="100" height="29"></a></div>
+                <!--<div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/qihan_brand.png" width="100" height="29"></a></div>-->
             </div>
         </div>
         <br/>
@@ -3046,12 +3046,12 @@
             <h3>Contact Numbers:</h3>
 
             <p> <strong  style="cursor: pointer">
-                    Phone   : (+94)33226 0982<br>
+                    Phone   : (+94)11766 7788<br>
 
-                    Mobile  : (+94) 7114 64764<br>
-                    Mobile  : (+94) 7114 64464<br>
+                    Mobile  : (+94) 7144 64464<br>
+                    Mobile  : (+94) 7144 64764<br>
 
-                    Fax &ensp;&ensp;&ensp;&ensp;: (+94) 1176 67789
+                    Phone &ensp;&ensp;&ensp;&ensp;: (+94) 1176 67789
                 </strong>
             </p>
 
