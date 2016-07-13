@@ -6,6 +6,23 @@ body {
     height: 100%;
 }
 
+#map{
+    overflow:hidden;
+    height:500px;
+    width:700px; 
+    margin-left: 10px;
+    float: left;
+}
+#gmap_canvas img{
+    max-width:none!important;
+    background:none!important
+}
+.ft{           
+    font-style: normal;
+    font-size: medium;
+    font-family: tahoma;
+}
+
 body {
     background: #252525;
     font: 16px/30px "merriweather-regular", serif;
@@ -554,13 +571,13 @@ hr {
     font-size: x-large;
 }
 .gf_2{
-    
-   /* font-family: 'Dosis', sans-serif;*/
+
+    /* font-family: 'Dosis', sans-serif;*/
     font-family: 'Open Sans', sans-serif;
     font-size: xx-large;
     color: #ffffff;
     font-weight: bold;
-    
+
 }
 
 @media only screen and (max-width:768px) {
@@ -1351,7 +1368,7 @@ ul#nav li.current a:after {
 
 .folio-item .item-wrap .link-icon {
     display: block;
-    height: 30px;
+    height: 35px;
     width: 30px;
     margin-left: -15px;
     margin-top: -15px;
