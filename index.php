@@ -28,7 +28,7 @@
 
     <body>
 
-        <style>
+      <!--  <style>
 
             .li_c {
 
@@ -46,7 +46,7 @@
             .li_ss {
                 list-style-image: url('images/solar-system-icon.png');
             }
-        </style>
+        </style>-->
 
         <?php include './inc/include.php'; ?>
 
@@ -92,19 +92,19 @@
             <br/>
         </section> 
         <!-- end home-page -->
-        <br/>
-        <div class="nav">
-            <div class="nav" style=" padding-top: 15px; padding-left: 280px;">    
-                <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/ctech_brand.png" width="100" height="29"></a></div>
+ 
+   <!--      <div class="nav">
+           <div class="nav" style=" padding-top: 15px; padding-left: 280px;">    
+                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/ctech_brand.png" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/avtech.jpg" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/dialogtv_brand.png" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/dishtv_brand.png" width="100" height="29"></a></div>            
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/ikusi_brand.png" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/televes_brand.png" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/pelco_brand.png" width="100" height="29"></a></div> 
-            </div>
-        </div>
-        <br/>
+           </div>
+        </div>--> 
+
         <section id="testimonials" style="cursor:default; border:1px solid">
 
             <div class="row content flex-container" style="cursor:default">
@@ -198,7 +198,7 @@
         <!-- Start Section Head -->
         <section id="portfolio">
 
-            <div class="row section-head">
+        <!--    <div class="row section-head">
 
                 <div class="twelve columns">
 

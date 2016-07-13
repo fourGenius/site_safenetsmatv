@@ -27,7 +27,8 @@ body {
     background: #252525;
     font: 16px/30px "merriweather-regular", serif;
     font-weight: normal;
-    color: #575859;
+   // color: #575859;
+    color: whitesmoke;
 }
 a,
 a:visited {
@@ -639,7 +640,7 @@ header.opaque {
 
 /* header logo */
 header .logo {
-    background: dodgerblue;
+   background: dodgerblue;
     float: left;
     width: auto;
     margin-left: 15px;
@@ -1285,6 +1286,22 @@ ul#nav li.current a:after {
     }
 
 }
+   #hero #more  {
+        width: 100%;
+        height: auto;
+    }
+    p {
+        width: 95%;
+        height: auto;
+    }
+    
+
+@media screen and (max-width: 480px) {
+  body {
+        width: 100%;
+        height: auto;
+    }
+}
 
 
 /** 
@@ -1293,7 +1310,7 @@ ul#nav li.current a:after {
 
 #portfolio {
     background: #111417;
-    padding-top: 120px;
+    padding-top: 1%;
     border-bottom: 1px solid #15191d;  
 }
 
