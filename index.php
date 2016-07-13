@@ -318,7 +318,7 @@
         <!-- end home-page -->
         <br/>
         <div class="nav">
-            <div class="nav" style=" padding-top: 15px; padding-left: 25px;">    
+            <div class="nav" style=" padding-top: 15px; padding-left: 280px;">    
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/ctech_brand.png" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/avtech.jpg" width="100" height="29"></a></div>
                 <div class="nav" style=" padding-left: 10px"><a href="#"><img src="images/portfolio/brands/dialogtv_brand.png" width="100" height="29"></a></div>
@@ -444,7 +444,7 @@
                         <br/>
                         <li><a href="#mach04" class="smoothscroll"><strong class="ft" >Solar & Lightning Arresting Systems</strong></a></li>
                         <br/>
-                        <li><a href="#mach05" class="smoothscroll"><strong class="ft" >Fire Alarm/ Fire Hydrant & Fire Extinguishers</strong></a></li> 
+                        <li><a href="#mach05" class="smoothscroll"><strong class="ft" >Fire Systems</strong></a></li> 
                         <br/>
                     </ul>
                     </p>           
@@ -1544,7 +1544,7 @@
 
             <!-- Portfolio Wrapper 05 -->
 
-            <h3><span><a href="#set1">Fire Alarm/ Fire Hydrant & Fire Extinguishers</a></span></h3>           
+            <h3><span><a href="#set1">Fire Systems</a></span></h3>           
             <a class="smoothscroll" href="#h">(Back to top)</a>
             <p style="text-align: justify; font-family: tahoma">
                 <br/>
