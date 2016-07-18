@@ -1622,6 +1622,86 @@
                     </div>  
 
                     <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-000018">
+                                <img src="<?php echo $fa_p18 ?>" alt="Wet Chemical Fire Extinguisher">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Wet Chemical Fire Extinguisher</h5>
+                                        <p>Details</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-000019">
+                                <img src="<?php echo $fa_p19 ?>" alt="Foam Fire Extinguisher">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Foam Fire Extinguisher</h5>
+                                        <p>Details</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-000020">
+                                <img src="<?php echo $fa_p20 ?>" alt="Powder Fire Extinguisher">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Powder Fire Extinguisher</h5>
+                                        <p>Details</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-000021">
+                                <img src="<?php echo $fa_p21 ?>" alt="Water Fire Extinguisher">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Water Fire Extinguisher</h5>
+                                        <p>Details</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-000022">
+                                <img src="<?php echo $fa_p22 ?>" alt="CO2 Fire Extinguisher">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>CO<sub>2</sub> Fire Extinguisher</h5>
+                                        <p>Details</p>
+                                    </div>
+                                </div>
+                                <div class="link-icon"><i class="fa fa-plus"></i></div>                     
+                            </a>
+                        </div>
+                    </div>  
+
+                    <!-- End Item -->
 
                 </div> 
 
@@ -2720,6 +2800,66 @@
 
                 </div>
                 <!-- End Modal-17 -->
+                <div id="modal-000018" class="popup-modal mfp-hide">
+
+                    <div class="media">
+                        <img src="<?php echo $fa_n18 ?>" alt="" style="cursor:default"/>
+                    </div>	
+
+                    <div class="link-box">
+                        <a href="#" class="popup-modal-dismiss">Close</a>
+                    </div>
+
+                </div>
+                <!-- End Modal-18 -->
+                <div id="modal-000019" class="popup-modal mfp-hide">
+
+                    <div class="media">
+                        <img src="<?php echo $fa_n19 ?>" alt="" style="cursor:default"/>
+                    </div>	
+
+                    <div class="link-box">
+                        <a href="#" class="popup-modal-dismiss">Close</a>
+                    </div>
+
+                </div>
+                <!-- End Modal-19 -->
+                <div id="modal-000020" class="popup-modal mfp-hide">
+
+                    <div class="media">
+                        <img src="<?php echo $fa_n20 ?>" alt="" style="cursor:default"/>
+                    </div>	
+
+                    <div class="link-box">
+                        <a href="#" class="popup-modal-dismiss">Close</a>
+                    </div>
+
+                </div>
+                <!-- End Modal-20 -->
+                <div id="modal-000021" class="popup-modal mfp-hide">
+
+                    <div class="media">
+                        <img src="<?php echo $fa_n21 ?>" alt="" style="cursor:default"/>
+                    </div>	
+
+                    <div class="link-box">
+                        <a href="#" class="popup-modal-dismiss">Close</a>
+                    </div>
+
+                </div>
+                <!-- End Modal-21 -->
+                <div id="modal-000022" class="popup-modal mfp-hide">
+
+                    <div class="media">
+                        <img src="<?php echo $fa_n22 ?>" alt="" style="cursor:default"/>
+                    </div>	
+
+                    <div class="link-box">
+                        <a href="#" class="popup-modal-dismiss">Close</a>
+                    </div>
+
+                </div>
+                <!-- End Modal-22 -->
             </div>  
             <!-- End Row -->
         </section> 

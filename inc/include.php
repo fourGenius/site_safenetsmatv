@@ -154,6 +154,11 @@
         $fa_p15 = 'images/portfolio/FireHydrant/fa_p15.jpg';
         $fa_p16 = 'images/portfolio/FireHydrant/fa_p16.jpg';
         $fa_p17 = 'images/portfolio/FireHydrant/fa_p17.jpg';
+        $fa_p18 = 'images/portfolio/FireHydrant/fa_p18.jpg';
+        $fa_p19 = 'images/portfolio/FireHydrant/fa_p19.jpg';
+        $fa_p20 = 'images/portfolio/FireHydrant/fa_p20.jpg';
+        $fa_p21 = 'images/portfolio/FireHydrant/fa_p21.jpg';
+        $fa_p22 = 'images/portfolio/FireHydrant/fa_p22.jpg';
 
         // image change using php-n group FIAR ELARM
 
@@ -174,3 +179,8 @@
         $fa_n15 = 'images/portfolio/FireHydrant/fa_p15.jpg';
         $fa_n16 = 'images/portfolio/FireHydrant/fa_p16.jpg';
         $fa_n17 = 'images/portfolio/FireHydrant/fa_p17.jpg';
+        $fa_n18 = 'images/portfolio/FireHydrant/fa_p18.jpg';
+        $fa_n19 = 'images/portfolio/FireHydrant/fa_p19.jpg';
+        $fa_n20 = 'images/portfolio/FireHydrant/fa_p20.jpg';
+        $fa_n21 = 'images/portfolio/FireHydrant/fa_p21.jpg';
+        $fa_n22 = 'images/portfolio/FireHydrant/fa_p22.jpg';
